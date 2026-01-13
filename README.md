@@ -1,5 +1,5 @@
 # IUT SD2 – Power BI Reporting ENEDIS
-### Jasmine Pioct, Sabrina Lephoque, Hadjer Merabet
+#### Projet fais par : Jasmine Pioct, Sabrina Lephoque, Hadjer Merabet
 
 ## Contexte
 Projet académique Power BI réalisé dans le cadre du parcours SD2.  
