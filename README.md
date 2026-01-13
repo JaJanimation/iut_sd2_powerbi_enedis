@@ -1,6 +1,5 @@
 # IUT SD2 – Power BI Reporting ENEDIS
-#### Projet fais par : Jasmine Pioct, Sabrina Lephoque, Hadjer Merabet
-
+#### Projet fais par : Jasmine Pioct, Sabrina Moufok et Hadjer Merabet
 ## Contexte
 Projet académique Power BI réalisé dans le cadre du parcours SD2.  
 Client fictif : **GreenTech Solutions**, missionnée par **Enedis** pour établir un état des lieux de la performance énergétique des logements d’une ville française à partir des données DPE.
