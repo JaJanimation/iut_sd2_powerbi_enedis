@@ -31,10 +31,10 @@ Objectif central : concevoir une application Power BI exploitable, maintenable e
 - Import CSV / API
 - Nettoyage avancé avec Power Query
 - Gestion des erreurs, valeurs manquantes et doublons
-- Modélisation en schéma étoilé
+- Modélisation en schéma simple
 
 ### Modélisation & calculs
-- Tables de faits et dimensions (villes, régions, années)
+- Tables de faits et dimensions (département, commune)
 - Mesures DAX simples et avancées
 - Optimisation du modèle
 
@@ -42,7 +42,7 @@ Objectif central : concevoir une application Power BI exploitable, maintenable e
 - Indicateurs clés de performance énergétique
 - Graphiques comparatifs
 - Carte interactive
-- Filtres et slicers hiérarchiques
+- Filtres
 - Navigation multi-pages avec boutons personnalisés
 
 ### Sécurité & performance (si activé)
