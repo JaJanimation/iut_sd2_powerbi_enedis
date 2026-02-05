@@ -52,3 +52,6 @@ Objectif central : concevoir une application Power BI exploitable, maintenable e
 ---
 
 ## Structure du repository
+- Documentation : contient les fichiers spécifiques à la documentation de l'application (captation vidéo, documentations techniques et fonctionnelle)
+- Maquette : contient les documents spécifique à la maquette (maquette seule et maquette avec liens entre les objets)
+
