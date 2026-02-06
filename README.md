@@ -52,6 +52,6 @@ Objectif central : concevoir une application Power BI exploitable, maintenable e
 
 ## Structure du repository
 main : Contient les dossier Documentation et Maquette, ainsi que l'application elle-même et le README.md
-- Documentation : contient les fichiers spécifiques à la documentation de l'application (captation vidéo, documentations techniques et fonctionnelle)
+- Documentation : contient les fichiers spécifiques à la documentation de l'application (captation vidéo, documentations techniques et fonctionnelle, charte graphique)
 - Maquette : contient les documents spécifique à la maquette (maquette seule et maquette avec liens entre les objets)
 
