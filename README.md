@@ -5,10 +5,13 @@ Projet académique Power BI réalisé dans le cadre du parcours SD2.
 Client fictif : **GreenTech Solutions**, missionnée par **Enedis** pour établir un état des lieux de la performance énergétique des logements d’une ville française à partir des données DPE.
 
 Objectif central : concevoir une application Power BI exploitable, maintenable et documentée, orientée analyse décisionnelle.
+
 ---
+
 ##Liens
 Application :
 Maquette : https://drive.google.com/file/d/1NFL-auP1v5qUmlKHXeeXbuMJu8c2Wf51/view?usp=drive_link
+
 ---
 
 ## Périmètre du projet
