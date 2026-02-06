@@ -45,8 +45,7 @@ Objectif central : concevoir une application Power BI exploitable, maintenable e
 - Filtres
 - Navigation multi-pages avec boutons personnalisés
 
-### Sécurité & performance (si activé)
-- Rôles RLS (admin / responsable régional)
+### Sécurité & performance 
 - Diagnostic via l’Analyseur de performances Power BI
 
 ---
