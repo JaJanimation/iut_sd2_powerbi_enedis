@@ -11,6 +11,8 @@ Objectif central : concevoir une application Power BI exploitable, maintenable e
 ## Liens
 - Application : https://app.powerbi.com/groups/me/apps/3b877f88-c0cf-479f-927e-4d6861d32460/reports/2cf653b3-a6ee-4643-882e-6369c359505f?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&experience=power-bi
 - Maquette : https://drive.google.com/file/d/1NFL-auP1v5qUmlKHXeeXbuMJu8c2Wf51/view?usp=drive_link
+- Vidéo :
+https://youtu.be/d69-JhMyo2E?si=tUAA5e5u2n62Z1Zj
 
 ---
 
